@@ -2,7 +2,7 @@
 
 This is my submission for a case study assessment given to shortlisted job applicants for a 'Junior-Mid Software Developer'.  role with the Information Technology company [Leidos](https://www.leidos.com/). The idea of the assessment was to review a hypothetical IT problem and conduct research as to how the problem can be mitigated as much as possible.
 
-This repository is my submission for the Leidos case study assessment. It was originally written across 2-6 July 2021, converted to markdown on 8 August, and shared publicly on xx August.
+My submission for this case study assessment was originally written across 2-6 July 2021. It was later converted to markdown on 8 August, and shared publicly on xx August.
 
 [Submission Document](./submission.md)
 
